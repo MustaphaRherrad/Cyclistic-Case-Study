@@ -1,27 +1,9 @@
-'''
-title: "Projet Phare Google Data Analytics"
-author: "Mustapha Rherrad"
-date: "24/10/2024"
-output:
-  pdf_document:
-    toc: true
-    toc_depth: '3'
-  html_document:
-    toc: true
-    toc_depth: 3
-    code_folding: hide
-    fig_width: 6
-    fig_height: 4
-    self_contained: true
-    theme: cerulean
-    highlight: tango
-subtitle: Étude de cas Cyclistic Chicago
-editor_options:
-  chunk_output_type: console
-params:
-  dataset: data.csv
-  title: Rapport personnalisé
-'''
+# Projet Phare Google Data Analytics  
+### Étude de cas : Cyclistic Chicago  
+**Auteur : Mustapha Rherrad**  
+**Date : 24/10/2024**
+
+---
 
 
 ## Introduction
